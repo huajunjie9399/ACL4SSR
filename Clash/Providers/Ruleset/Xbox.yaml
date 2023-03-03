@@ -2,9 +2,15 @@ payload:
   # 内容：xbox
   # 数量：6条
   - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xbox.cn
   - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,xboxab.cn
   - DOMAIN-SUFFIX,xboxab.net
   - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,xboxlive.cn
   - DOMAIN-SUFFIX,xboxservice.com
+  - DOMAIN-SUFFIX,xboxservice.cn
   - DOMAIN-SUFFIX,xboxservices.com
+  - DOMAIN-SUFFIX,xboxservices.cn
   - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,gamepass.cn
